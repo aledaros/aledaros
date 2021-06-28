@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Da Ros</h1>
-<h3 align="center">I'm a cloud developer student at ITS Kennedy (Pordenone, IT) ☁️</h3>
+<h3 align="center">I'm a cloud developer student at ITS Alto Adriatico (Pordenone, IT) ☁️</h3>
 
 
 ____
@@ -8,8 +8,6 @@ ____
 <summary>🤝 <b>My social<b></summary>
 
 <p align = "center">
-
-[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aleedaros)
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alessandro-da-ros-74a4901a9/)
 </p>
 
@@ -34,6 +32,7 @@ ____
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-366f9c?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

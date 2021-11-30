@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Da Ros</h1>
-<h3 align="center">## I'm a cloud developer student at [ITS Alto Adriatico](https://www.tecnicosuperiorekennedy.it/) (Pordenone, IT) ☁️</h3>
+<h3 align="center">I'm a cloud developer student at ITS Alto Adriatico (Pordenone, IT) ☁️</h3>
 
 
 ____

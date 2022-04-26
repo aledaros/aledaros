@@ -10,12 +10,6 @@ ____
 
 ____
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://natemoo-5zeq5k5fs-aledaros.vercel.app/now-playing?open"><img src="https://natemoo-5zeq5k5fs-aledaros.vercel.app/now-playing" width="540" height="64"></a> |
-
-____
-
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aledaros&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 ____

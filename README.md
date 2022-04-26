@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alessandro Da Ros</h1>
 <h3 align="center">I'm a cloud developer student at ITS Alto Adriatico (Pordenone, IT) ☁️</h3>
 
+____
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aledaros/count.svg" />
+</p>
+
+____
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://natemoo-5zeq5k5fs-aledaros.vercel.app/now-playing?open"><img src="https://natemoo-5zeq5k5fs-aledaros.vercel.app/now-playing" width="540" height="64"></a> |
 
 ____
 

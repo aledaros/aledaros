@@ -10,6 +10,10 @@ ____
 
 ____
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aledaros&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
+
+____
+
 <details open>
 <summary>🤝 <b>My social<b></summary>
   

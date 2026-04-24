@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alessandro%20Da%20Ros&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Developer%20%E2%98%81%EF%B8%8F&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alessandro%20Da%20Ros&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Transformation%20Technical%20Analyst&descAlignY=55&descSize=18"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Cloud+Developer+%E2%98%81%EF%B8%8F;.NET+%7C+Node.js+%7C+AWS+%7C+Azure;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Digital+Transformation+Technical+Analyst;C%23+%7C+Blazor+%7C+Azure+%7C+Power+Platform;Industry+4.0+%7C+ERP+%7C+CRM+%7C+Full+Stack;Turning+processes+into+digital+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=aledaros&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
@@ -21,15 +18,23 @@
 
 ```yaml
 name:     Alessandro Da Ros
-role:     Cloud Developer
-location: Italy 🇮🇹
-focus:    Cloud architecture, backend development, DevOps
+role:     Digital Transformation Technical Analyst
+company:  Irinox SPA — Conegliano, Italy 🇮🇹
+since:    2021
+focus:
+  - Full-stack web development (C# + Blazor)
+  - Microsoft Power Platform & Dynamics 365 CRM
+  - Azure cloud services & automation
+  - Industry 4.0 data integration
+  - SQL Server database management & BI reporting
 ```
 
-- ☁️ Passionate about **cloud infrastructure** (AWS & Azure)
-- 🔧 Building scalable backends with **.NET** and **Node.js**
-- 🐳 Fan of containerization with **Docker**
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/alessandro-da-ros-74a4901a9/)
+- ⚙️ I build internal tools that **digitize and optimize** business processes end-to-end
+- 📊 I create **Power BI** semantic models and reports from SQL Server and Dataverse
+- 🤖 I automate workflows with **Power Automate**, **Azure Logic Apps** and **Power Apps**
+- 🏭 I integrate data from **Industry 4.0** machinery and support ERP systems
+- 🐍 I write **Python** scripts for operational automation and data analysis
+- 📬 Find me on [LinkedIn](https://www.linkedin.com/in/alessandrodaros)
 
 ---
 
@@ -52,10 +57,6 @@ focus:    Cloud architecture, backend development, DevOps
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -63,25 +64,28 @@ focus:    Cloud architecture, backend development, DevOps
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ Cloud & Azure Services
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Logic Apps](https://img.shields.io/badge/Azure%20Logic%20Apps-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Digital Twins](https://img.shields.io/badge/Azure%20Digital%20Twins-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white)
+
+### 🟦 Microsoft Power Platform & 365
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=dynamics365&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 💾 Databases
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,11 +97,11 @@ focus:    Cloud architecture, backend development, DevOps
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ### 🖥️ Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -106,7 +110,7 @@ focus:    Cloud architecture, backend development, DevOps
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alessandro-da-ros-74a4901a9/">
+  <a href="https://www.linkedin.com/in/alessandrodaros">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
